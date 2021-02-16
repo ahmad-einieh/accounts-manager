@@ -8,6 +8,6 @@ it is very simple
 
 
 -------------
-donate:  https://paypal.me/proahmad?locale.x=ar_EG
+donate:  https://paypal.me/progahmad?locale.x=ar_EG
 
 
