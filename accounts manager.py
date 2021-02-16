@@ -34,7 +34,7 @@ def mygithub():
 
 
 def mypaypal():
-    webbrowser.open_new(r"https://paypal.me/proahmad?locale.x=ar_EG")
+    webbrowser.open_new(r"https://paypal.me/progahmad?locale.x=ar_EG")
 
 
 ##########################
